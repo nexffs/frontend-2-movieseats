@@ -1,0 +1,32 @@
+{
+  "movies": [
+   {
+      "Title": "Fast and Furious 6",
+     "Year": "2013",
+     "Price": 100,
+     "Poster": "https://m.media-amazon.com/images/S/pv-target-images/6784f8f7940f34e0026a87e512e1595aa1450048571ba5392f712a561a259b4b._UR1920,1080_.jpg",
+     "id": 1
+    },
+    {
+     "Title": "The Mummy Returns",
+     "Year": "2001",
+     "Price": 40,
+     "Poster": "https://m.media-amazon.com/images/S/pv-target-images/a1271a758e988e7677205cbec9455364214cf3868dd70b827aa111cdb65e9bac.jpg",
+     "id": 2
+    },
+    {
+     "Title": "Jumanji: Welcome to the Jungle",
+     "Year": "2017",
+     "Price": 70,
+     "Poster": "https://m.media-amazon.com/images/S/pv-target-images/7307d301458c1388389a437d4f33754f6ef7163ec4af963daddcb25091b29e4e.jpg",
+     "id": 3
+    },
+    {
+     "Title": "Rampage",
+     "Year": "2018",
+     "Price": 40,
+     "Poster": "https://m.media-amazon.com/images/S/pv-target-images/01d758476f70e815aa96d8e16da81b5fe3825b4f3ac6edaae2784021bdaeddf9.jpg",
+     "id": 4
+    }
+  ]
+}
