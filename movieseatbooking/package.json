@@ -2,7 +2,7 @@
   "name": "movieseatbooking",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nexffs.github.io/frontend-2-movieseats",
+  "homepage": "https://nexffs.github.io/frontend-2-movieseats/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
